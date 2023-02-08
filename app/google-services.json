@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "92646819117",
+    "project_id": "fcm-rifat",
+    "storage_bucket": "fcm-rifat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92646819117:android:bc795f7c11607f69d0ffa4",
+        "android_client_info": {
+          "package_name": "com.example.fcmtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92646819117-16tqds02uktiohonocgab6qpb2vvs2us.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMRVUy3zpcmGNjeh4Fq8V1P2D_27C2orY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92646819117-16tqds02uktiohonocgab6qpb2vvs2us.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
